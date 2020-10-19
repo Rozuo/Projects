@@ -1,6 +1,6 @@
 # Projects
  This is all the majority of my work done outside of my education of MacEwan University.
-
+In AFinal I do not own any of the art/sound assets. All code was implemented by myself in 2 weeks.
 
 # Hackthons
 *SpaceApps Challenge:*
