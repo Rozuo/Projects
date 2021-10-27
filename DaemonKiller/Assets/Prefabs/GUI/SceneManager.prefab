@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8514074382741462531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8514074382741462533}
+  - component: {fileID: 8514074382741462530}
+  - component: {fileID: 9042677327835753170}
+  m_Layer: 0
+  m_Name: SceneManager
+  m_TagString: Scene Manager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8514074382741462533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8514074382741462531}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -14.406646, y: 2.8132114, z: -46.66989}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8514074382741462530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8514074382741462531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1a79cb57ee46b546bf128319ab19240, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadType: 0
+--- !u!114 &9042677327835753170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8514074382741462531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35331a7edccecba428a9aa869a5bae26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickupPrefabs:
+  - {fileID: 6950104035237153274, guid: a4ce4e7617b690848841825cdb841db6, type: 3}
+  - {fileID: 6344617245136878216, guid: 8eb89c49e7fcabf418d334e553a92254, type: 3}
+  - {fileID: 6525964502794361235, guid: e2b676e38bbe65f4ca81f9157550215d, type: 3}
+  - {fileID: 7613075334016162938, guid: b12c3310ae13062479f460f5d8faa242, type: 3}
+  - {fileID: 8973483002321534671, guid: e3cb1c28317d33a42934c52978780d91, type: 3}
+  - {fileID: 8844842033418841424, guid: be269fa2f1d4ce243bc2a3ca579bb405, type: 3}
+  - {fileID: 7485041244730612549, guid: a4771205348b86045bc09c45726d5a3c, type: 3}
+  - {fileID: 8432536102852678122, guid: eaa92ab04c10d67489ac2112c81e8296, type: 3}
+  - {fileID: 2466302870632518375, guid: 0144a24b009d490459662bead4af29fa, type: 3}
+  - {fileID: 6080026978267990417, guid: f8443aa191ebe6547ba95a1301d5ae07, type: 3}
+  - {fileID: 1748572997767837459, guid: 787a54f71064845419d57197b576acba, type: 3}
+  - {fileID: 6242357269086998580, guid: 6338cda71ebe39446b88a7b36cef9215, type: 3}
+  - {fileID: 7467735557783562626, guid: 3d51539b87b7c124885f15b382ed7ad4, type: 3}
+  - {fileID: 8347652253475813948, guid: 6499e6a18d5877647ae77bbd2e244e4c, type: 3}
+  - {fileID: 3025759385551382904, guid: 539ef5231213df34dbcd41a85c43af14, type: 3}
+  envPrefabs:
+  - {fileID: 1155420153928076826, guid: 47f1a85771d46664aba2a643488154fb, type: 3}
+  - {fileID: 5785351203610207503, guid: fb8cb324b019e4344ac5013e2839b2bf, type: 3}
+  - {fileID: 6493273709956890666, guid: 49d4d17ad85a2f54db36d6dd653e46ed, type: 3}
+  gunSO:
+  - {fileID: 11400000, guid: f22c6d6fe08d92446bfa992939774651, type: 2}
+  - {fileID: 11400000, guid: 0c6f222e2f10aca4e9117dae5c3c98eb, type: 2}
+  loadingData: 0
+  loadingScene: 0
