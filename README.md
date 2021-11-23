@@ -8,6 +8,7 @@ The capstone was made over the course of 3 months and was made by myself, Tyson 
 
 # Matching Fanstasy
 Matching Fantasy is a matching game that involves 1-4 players trying to match cards to defeat various enemies to get the highest score possible. It was made by myself, Justin Y, Laroy M, and Lou L. The main game loop involves the players working together to match cards that do specific effects like attacking, defending, healing, and mana recovery.
+
 https://www.youtube.com/watch?v=ErVp8e-Md0U&ab_channel=JustinYeung
 
 # StreamCloud
