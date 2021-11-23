@@ -6,6 +6,9 @@ In AFinal I do not own any of the art/sound assets. All code was implemented by 
 *Daemon Killer:*
 The capstone was made over the course of 3 months and was made by myself, Tyson H and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
 
+# StreamCloud
+StreamCloud is a project that was developed over the course of 4 months for a school project. StreamCloud displays the number of movies/shows present on a streaming platform by visualizing data. It was made with the intention of making the users choice easier when selecting a streaming platform to subscribe to. 
+
 # Chess
 This was a project I had to make for one of my school projects. It was to re-create chess within the Unity Engine. All chess pieces function as expected and can take an opponent's piece. However, there is one caveat with this project: it will not tell you when a player has entered check or in checkmate.
 
