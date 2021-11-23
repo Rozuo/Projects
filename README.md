@@ -4,7 +4,11 @@ In AFinal I do not own any of the art/sound assets. All code was implemented by 
 
 # Capstone
 *Daemon Killer:*
-The capstone was made over the course of 3 months and was made by myself, Tyson H and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
+The capstone was made over the course of 3 months and was made by myself, Tyson H, and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
+
+# Matching Fanstasy
+Matching Fantasy is a matching game that involves 1-4 players trying to match cards to defeat various enemies. It was made by myself, Justin Y, Laroy M, and Lou L. The main game loop involves the players working together as they match cards that do certain effects like attacking, defending, healing, and mana recovery. The players would continue through waves of enemies to get the highest score possible.
+https://www.youtube.com/watch?v=ErVp8e-Md0U&ab_channel=JustinYeung
 
 # StreamCloud
 StreamCloud is a project that was developed over the course of 4 months for a school project. StreamCloud displays the number of movies/shows present on a streaming platform by visualizing data. It was made with the intention of making the users choice easier when selecting a streaming platform to subscribe to. 
