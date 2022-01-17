@@ -6,6 +6,8 @@ In AFinal I do not own any of the art/sound assets. All code was implemented by 
 *Daemon Killer:*
 The capstone was made over 3 months and was made by myself, Tyson H, and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
 
+Video demo: https://youtu.be/EEo1gqdZcGs
+
 # Matching Fantasy
 Matching Fantasy is a matching game that the Edmonton Public Library now uses on some of their touch tables. The game involves 1-4 players trying to match cards to defeat various enemies to get the highest score possible. It was made by Justin Y, Laroy M, Lou L, and myself. The main game loop involves the players working together to match cards that do specific effects like attacking, defending, healing, and mana recovery.
 
