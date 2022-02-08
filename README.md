@@ -32,7 +32,8 @@ Here is a short video demo: https://youtu.be/Bxp2Oh9d3GE
 **Global Game Jam 2020:** Worked on gameplay mechanics involving running around the globe, planting, and growing.
   
   https://gitlab.com/Rozuo/ggj2020-plant-globe
-  
+ 
+ 
 **Alberta Game Jam Summer 2019:** called Alberta Game Jam, where I led other programmers over source control, Unity, and Ai.
   
   https://plazmatic4.itch.io/into-the-pit
