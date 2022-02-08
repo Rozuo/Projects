@@ -20,12 +20,15 @@ StreamCloud is a project that was developed over 4 months for a school project. 
 # Chess
 This was a project I had to make for one of my school projects. It was to re-create chess within the Unity Engine. All chess pieces function as expected and can take an opponent's piece. However, this project has one caveat: it will not tell you when a player has entered check or in checkmate.
 
-# Hackthons
-*SpaceApps Challenge:*
-  
-  https://github.com/JustinYeung-source/SpaceAppsChallenge
 
 # Game Jams
+
+*Global Game Jam 2022:* World of Darkness: Yomi no Kuni
+This game was made over 48 hours for the Global Game Jam 2022. World of Darkness is a rogue where death is not necessarily the end if you die. When you die, you must kill all the enemies you have previously killed in the living world to revive and have another chance at your run. 
+
+Here is a short video demo: https://youtu.be/Bxp2Oh9d3GE
+
+
 *Global Game Jam 2020:* Worked on gameplay mechanics involving running around the globe, planting, and growing.
   
   https://gitlab.com/Rozuo/ggj2020-plant-globe
@@ -41,3 +44,8 @@ This was a project I had to make for one of my school projects. It was to re-cre
   
   https://kevin-nguyen.itch.io/spoonicide
 
+
+# Hackthons
+*SpaceApps Challenge:*
+
+https://github.com/JustinYeung-source/SpaceAppsChallenge
