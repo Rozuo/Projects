@@ -23,29 +23,29 @@ This was a project I had to make for one of my school projects. It was to re-cre
 
 # Game Jams
 
-*Global Game Jam 2022:* World of Darkness: Yomi no Kuni
+**Global Game Jam 2022:** World of Darkness: Yomi no Kuni
 This game was made over 48 hours for the Global Game Jam 2022. World of Darkness is a rogue where death is not necessarily the end if you die. When you die, you must kill all the enemies you have previously killed in the living world to revive and have another chance at your run. 
 
 Here is a short video demo: https://youtu.be/Bxp2Oh9d3GE
 
 
-*Global Game Jam 2020:* Worked on gameplay mechanics involving running around the globe, planting, and growing.
+**Global Game Jam 2020:** Worked on gameplay mechanics involving running around the globe, planting, and growing.
   
   https://gitlab.com/Rozuo/ggj2020-plant-globe
   
-*Alberta Game Jam Summer 2019:* called Alberta Game Jam, where I led other programmers over source control, Unity, and Ai.
+**Alberta Game Jam Summer 2019:** called Alberta Game Jam, where I led other programmers over source control, Unity, and Ai.
   
   https://plazmatic4.itch.io/into-the-pit
   
   https://gitlab.com/Rozuo/into-the-pit 
 
   
-*Fall Game Jam 2018:* Worked on level functionality and designed levels.
+**Fall Game Jam 2018:** Worked on level functionality and designed levels.
   
   https://kevin-nguyen.itch.io/spoonicide
 
 
 # Hackthons
-*SpaceApps Challenge:*
+**SpaceApps Challenge:**
 
 https://github.com/JustinYeung-source/SpaceAppsChallenge
