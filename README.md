@@ -28,6 +28,10 @@ This game was made over 48 hours for the Global Game Jam 2022. World of Darkness
 
 Here is a short video demo: https://youtu.be/Bxp2Oh9d3GE
 
+REPO: https://gitlab.com/Rozuo/ggj-2021
+
+Note: The repo says 2021, but that is a typo on the repo. It is 2022.
+
 
 **Global Game Jam 2020:** Worked on gameplay mechanics involving running around the globe, planting, and growing.
   
