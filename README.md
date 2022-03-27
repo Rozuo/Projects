@@ -6,13 +6,13 @@ The project was made over 3 months and was made by myself, Tyson H, and Jacky H.
 
 Video demo: https://youtu.be/EEo1gqdZcGs
 
-[![Daemon Killer](http://img.youtube.com/vi/EEo1gqdZcGs&ab_channel=RozuoBeaudin/0.jpg)](https://www.youtube.com/watch?v=EEo1gqdZcGs&ab_channel=RozuoBeaudin)
+[![Daemon Killer](media/DaemonKillerThumbnail.PNG)](https://www.youtube.com/watch?v=EEo1gqdZcGs&ab_channel=RozuoBeaudin)
 
 # Matching Fantasy
 Matching Fantasy is a matching game that the Edmonton Public Library now uses on some of their touch tables. The game involves 1-4 players trying to match cards to defeat various enemies to get the highest score possible. It was made by Justin Y, Laroy M, Lou L, and myself. The main game loop involves the players working together to match cards that do specific effects like attacking, defending, healing, and mana recovery.
 
 The link below will show a demo of the game, and within the description, you can download and try the game for yourself.
-![] (media/MatchingFantasy.gif)
+![](media/MatchingFantasy.gif)
 
 # StreamCloud
 StreamCloud is a project that was developed over 4 months for a school project. StreamCloud displays the number of movies/shows present on a streaming platform by visualizing data. It was made to make the users' choice easier when selecting a streaming platform to subscribe to. 
