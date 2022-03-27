@@ -1,11 +1,12 @@
 # Projects
 This is all the majority of my work done outside and some within my education at MacEwan University.
 
-# Capstone
-*Daemon Killer:*
-The capstone was made over 3 months and was made by myself, Tyson H, and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
+# Daemon Killer
+The project was made over 3 months and was made by myself, Tyson H, and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
 
 Video demo: https://youtu.be/EEo1gqdZcGs
+
+[![Daemon Killer](http://img.youtube.com/vi/EEo1gqdZcGs&ab_channel=RozuoBeaudin/0.jpg)](https://www.youtube.com/watch?v=EEo1gqdZcGs&ab_channel=RozuoBeaudin)
 
 # Matching Fantasy
 Matching Fantasy is a matching game that the Edmonton Public Library now uses on some of their touch tables. The game involves 1-4 players trying to match cards to defeat various enemies to get the highest score possible. It was made by Justin Y, Laroy M, Lou L, and myself. The main game loop involves the players working together to match cards that do specific effects like attacking, defending, healing, and mana recovery.
