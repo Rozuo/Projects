@@ -12,7 +12,7 @@ Matching Fantasy is a matching game that the Edmonton Public Library now uses on
 
 The link below will show a demo of the game, and within the description, you can download and try the game for yourself.
 
-![] (MatchingFantasy.gif)
+![](MatchingFantasy.gif)
 
 # StreamCloud
 StreamCloud is a project that was developed over 4 months for a school project. StreamCloud displays the number of movies/shows present on a streaming platform by visualizing data. It was made to make the users' choice easier when selecting a streaming platform to subscribe to. 
