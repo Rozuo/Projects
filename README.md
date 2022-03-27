@@ -1,9 +1,8 @@
 # Projects
 This is all the majority of my work done outside and some within my education at MacEwan University.
 
-# Capstone
-*Daemon Killer:*
-The capstone was made over 3 months and was made by myself, Tyson H, and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
+# Daemon Killer
+The project was made over 3 months and was made by myself, Tyson H, and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
 
 Video demo: https://youtu.be/EEo1gqdZcGs
 
