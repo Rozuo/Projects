@@ -14,7 +14,9 @@ Matching Fantasy is a matching game that the Edmonton Public Library now uses on
 ![](media/MatchingFantasy.gif)
 
 # StreamCloud
-StreamCloud is a project that was developed over 4 months for a school project. StreamCloud displays the number of movies/shows present on a streaming platform by visualizing data. It was made to make the users' choice easier when selecting a streaming platform to subscribe to. 
+StreamCloud is a project developed over four months by myself and another programmer. StreamCloud displays the number of movies/shows on a streaming platform by visualizing data. It was made to make the users' choice easier when selecting a streaming platform to subscribe to.
+
+![](media/StreamCloud.gif)
 
 # Chess
 The project's goal was to re-create chess within the Unity Engine within a week. Through this project, I gained a deeper understanding of OOP and, in general, how Unity functions. All chess pieces work as expected and can take an opponent's piece. However, this project has one caveat: it will not tell you when a player has entered check or in checkmate.
