@@ -23,6 +23,13 @@ The project's goal was to re-create chess within the Unity Engine within a week.
 
 ![](media/Chess.gif)
 
+# Marinara Platformer
+The goal of this project is for me to learn more about Unreal Engine 4 with only the official documentation. It is a recreation of the classic game Mario Bros as the game’s simple concept helped tackle a somewhat unfamiliar game engine environment. I created all code and blueprints for this project.
+Due to the size of the project, I am unable to upload the project to GitHub.
+
+![](media/marinara%20demo%20v0.5.gif)
+
+
 # Game Jams
 
 **Global Game Jam 2022:** World of Darkness: Yomi no Kuni
