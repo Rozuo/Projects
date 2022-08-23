@@ -32,8 +32,8 @@ Due to the size of the project, I am unable to upload the project to GitHub.
 
 # Game Jams
 
-**Alberta Game Jam 2022** Chaos Concerto
-*August 2022*
+**Alberta Game Jam 2022** Chaos Concerto <br />
+*August 2022* <br />
 Chaos Concerto is a rhythm game built with the theme of "breaking the rules.” The game follows the theme by having chaotic elements and hard-to-follow notes that you must match up with the correct timing.
 
 I am the lead programmer for this game. Where I programmed all of the game’s mechanics input, spawning, etc., I had some help deriving the mathematics for the timing of the beats.
@@ -42,8 +42,8 @@ Link to itch: https://foulfowlplay.itch.io/chaos-concerto
 
 ![](media/Chaos%20Concerto.png)
 
-**Global Game Jam 2022:** World of Darkness: Yomi no Kuni
-*January 2022*
+**Global Game Jam 2022:** World of Darkness: Yomi no Kuni <br />
+*January 2022* <br />
 This game was made over 48 hours for the Global Game Jam 2022. World of Darkness is a rogue where death is not necessarily the end if you die. When you die, you must kill all the enemies you have previously killed in the living world to revive and have another chance at your run. 
 
 Here is a short video demo: https://youtu.be/Bxp2Oh9d3GE
