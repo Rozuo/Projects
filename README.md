@@ -67,7 +67,7 @@ The game is a 2D top-down horror game in which I was a lead programmer who led/t
   
   https://gitlab.com/Rozuo/into-the-pit 
 
-[](media/Into%20the%20Pit.jpg)
+![](media/Into%20the%20Pit.jpg)
   
 **Fall Game Jam 2018:** <br />
 Worked on level functionality and designed levels.
