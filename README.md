@@ -54,19 +54,23 @@ Note: The repo says 2021, but that is a typo on the repo. It is 2022.
 
 ![](media/World%20of%20Darkness.jpg)
 
-**Global Game Jam 2020:** Worked on gameplay mechanics involving running around the globe, planting, and growing.
+**Global Game Jam 2020:** <br />
+Worked on gameplay mechanics involving running around the globe, planting, and growing.
   
   https://gitlab.com/Rozuo/ggj2020-plant-globe
  
  
-**Alberta Game Jam Summer 2019:** called Alberta Game Jam, where I led other programmers over source control, Unity, and Ai.
+**Alberta Game Jam Summer 2019:** <br />
+The game is a 2D top-down horror game in which I was a lead programmer who led/taught the other programmers about source control, Unity, and Ai.
   
   https://plazmatic4.itch.io/into-the-pit
   
   https://gitlab.com/Rozuo/into-the-pit 
 
+[](media/Into%20the%20Pit.jpg)
   
-**Fall Game Jam 2018:** Worked on level functionality and designed levels.
+**Fall Game Jam 2018:** <br />
+Worked on level functionality and designed levels.
   
   https://kevin-nguyen.itch.io/spoonicide
 
