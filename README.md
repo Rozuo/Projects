@@ -1,5 +1,5 @@
-# Projects
-This is all the majority of my work done outside and some within my education at MacEwan University.
+# About me
+Hi, my name is Rozario Beaudin; I am a recent graduate from MacEwan University. First off, thank you for taking the time to look at my GitHub repository; I greatly appreciate that. <br />Now about myself: I am an individual who constantly wants to learn from all my experiences to become a better programmer. Creating elegant, efficient and scalable code is what I strive to achieve. I accomplish self-betterment by constantly seeking criticism in all forms; it is an opportunity to grow and get a different perspective on how others think about a problem. Additionally, I believe that the best ideas come from many rather than a single individual, for that's when we flourish the most. <br />Thank you for reading, and I hope we become co-workers in the near future!
 
 # Daemon Killer
 The project was made over 3 months and was made by myself, Tyson H, and Jacky H. It is a top-down horror game to give an old-school survival horror game feel. You play as a private investigator that is tasked with researching magical fluctuations coming from a mansion. The game plays with a semi-turn-based action system, as you run around avoiding enemies to wait for your turn to take action.
