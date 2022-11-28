@@ -29,6 +29,11 @@ Due to the size of the project, I am unable to upload the project to GitHub.
 
 ![](media/marinara%20demo%20v0.5.gif)
 
+<br />
+**(WIP) Adventure Project** <br />
+I am working on this personal project to re-create a game in Unreal Engine 5 with a mix of C++ and Blueprints. The Adventure Project is an adventure game based on the original NES Legend of Zelda. The project’s 
+scope is to re-create all aspects of the Legend of Zelda. I will only show this project upon request, as it is not ready to be displayed on my portfolio. 
+<br />
 
 # Game Jams
 
